@@ -30,23 +30,21 @@ Vue Vben Admin is a free and open source middle and back-end template. Using the
 - [Ant-Design-Vue](https://2x.antdv.com/docs/vue/introduce-cn/) - ui basic use
 - [Mock.js](https://github.com/nuysoft/Mock) - mockjs basic syntax
 
-## Install and use
+## Scripts
 
-- Installation dependencies
-
+### install
 ```bash
-yarn install
-
+pnpm install
 ```
 
-- run
+### run
 
 ```bash
-yarn serve
+nr dev
 ```
 
-- build
+### build
 
 ```bash
-yarn build
+nr build
 ```
